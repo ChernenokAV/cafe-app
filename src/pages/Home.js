@@ -6,7 +6,6 @@ import Sidebar from "../components/Sidebar";
 import Restaurants from "../components/Restaurants";
 
 function Home() {
-  const data = Data;
   return (
     <main>
       <Slider />
