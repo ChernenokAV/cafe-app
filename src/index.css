@@ -1,14 +1,8 @@
 @import "~materialize-css/dist/css/materialize.min.css";
 
-.nav {
+/* .nav {
   padding: 0 1rem 0 1rem;
-}
-body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-
-main {
-  flex: 1 0 auto;
+} */
+.text-justify {
+  text-align: justify;
 }
